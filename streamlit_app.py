@@ -4,7 +4,7 @@ from collections import Counter
 import subprocess
 
 # Development mode flag
-DEV_MODE = False
+DEV_MODE = True
 
 # Page config
 st.set_page_config(page_title="Spellverse Tracker", layout="wide")
